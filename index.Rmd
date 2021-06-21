@@ -52,7 +52,7 @@ gt(table, rownames_to_stub = TRUE) %>%
 
 ```
 
-```{r images}
-include_graphics(images/car-plot.png)
+```{r image}
+include_graphics("images/car-plot.png")
 ```
 
