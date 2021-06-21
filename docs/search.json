@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nAbout Me\r\nMy name is Shreya Sree Morishetty. I go to Dublin Coffman High School, and I will be a senior next year. My interests include playing the flute, designing projects, and creative writing. This is my first experience with Data Science.\r\nAbout the Project\r\nGrowth in undergrad engineering program enrollment from 2003-2013: This project outlines the changes in the number of student enrollments from 2003 to 2013 for engineering projects. The graphs compares the differences based on race or gender.\r\nGoals\r\nUnderstand the change in interest for engineering for all students\r\nObserve how the differences between races and genders have changed\r\nThe numbers are large so a variation might be too small to notice\r\n\r\n“This data science”\r\n~Preceptor\r\nKane’s Free High School Data Science Bootcamp\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-21T11:12:18-04:00"
+      "last_modified": "2021-06-21T12:06:15-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,35 @@
       "description": "This is where I will describe my final project\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-21T11:12:25-04:00"
+      "last_modified": "2021-06-21T12:06:24-04:00"
+    },
+    {
+      "path": "source_A.html",
+      "title": "Source A",
+      "description": "Detailed notes for Source A\n",
+      "author": [
+        {
+          "name": "Shreya Sree Morishetty",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-21T12:06:26-04:00"
+    },
+    {
+      "path": "source_B.html",
+      "title": "Source B",
+      "description": "Detailed notes for Source B\n",
+      "author": [
+        {
+          "name": "Shreya Sree Morishetty",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-21T12:06:28-04:00"
     }
   ],
   "collections": []
